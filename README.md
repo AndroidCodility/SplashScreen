@@ -1,8 +1,7 @@
 # Splash Screen
 Android application to implement Splash Screen with Kotlin Programmatically.
 
-# Why to use :
-An Android app takes some time to to start up, especially when the app is first launched on a device. A splash screen may display start up progress to the user or to indicate branding.
+And also set the text, textColor, textSize, background, gravity in center of TextView and Button Programmatically.
 
 Example : Set the TextView Programmatically in Kotlin.
 
@@ -10,6 +9,9 @@ Example : Set the TextView Programmatically in Kotlin.
     tvTextView.textSize = 35F
     tvTextView.gravity = CENTER
     tvTextView.setTextColor(resources.getColor(R.color.colorAccent))
+
+# Why to use :
+An Android app takes some time to to start up, especially when the app is first launched on a device. A splash screen may display start up progress to the user or to indicate branding.
 
 SPLASH 1                                         |  SPLASH 2 |
 :--------------------------------------------------------:|:------------------------------------:
