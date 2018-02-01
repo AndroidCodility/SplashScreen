@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash Screen</string>
+    <string name="app_text">Welcome to Android Kotlin World.</string>
+    <string name="applicant_name">Android Codility</string>
+</resources>
